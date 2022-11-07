@@ -10,7 +10,7 @@ Technologies used:
 - Mantine
 
 Steps to initiate:
-1) Ensure `CapitalPlatformsConfig.json`
+1) Ensure `CapitalPlatformsConfig.json` is adjusted with the URL of your back-end
 2) Use command `npm run dev`
 
 
