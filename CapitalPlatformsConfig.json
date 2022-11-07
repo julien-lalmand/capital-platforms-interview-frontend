@@ -1,0 +1,5 @@
+{
+    "backend": {
+        "url": "https://localhost:7292"
+    }
+}
